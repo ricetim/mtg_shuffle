@@ -1,0 +1,19 @@
+Riffle shuffling paper
+	https://www.math.wustl.edu/~feres/Math450shuffling.pdf
+
+Research Paper
+	Sigmoid riffle
+		Graph on how the sigmoid riffle probability changes with difference in pile sizes
+		How did I choose the k value
+		why did I choose to implement this function?
+			wanted to prevent long streaks, as that doesn't occur in the wild
+			can I show how it prevents the streaks?
+			would there be a better way to do this?
+	"traditional" riffle
+		from the 1980's research paper
+		produces a lot of streaks, which don't seem to happen in practice
+		does produce more random outcomes
+	
+TODO
+	Convert all the code to a notebook
+	upload everything to git
