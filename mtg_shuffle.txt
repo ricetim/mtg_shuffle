@@ -17,3 +17,4 @@ Research Paper
 TODO
 	Convert all the code to a notebook
 	upload everything to git
+	Set up web server
